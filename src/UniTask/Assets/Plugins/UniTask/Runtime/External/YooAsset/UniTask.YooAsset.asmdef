@@ -1,0 +1,7 @@
+{
+	"name": "UniTask.YooAsset",
+    "references": [
+        "UniTask",
+        "YooAsset"
+    ]
+}
